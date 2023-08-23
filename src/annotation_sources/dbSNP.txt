@@ -1,0 +1,6 @@
+# Chromosome   Position   Ref_Allele   Alt_Allele   Gene_Name   Functional_Effect
+chr1          1000       A            T            ABCD1       Missense
+chr2          2000       G            C            XYZ         Synonymous
+chr3          3000       T            A            LMNO        Splice_Site
+chr4          4000       C            G            PQR         Frameshift
+chr5          5000       A            T            RSTU        Intron
