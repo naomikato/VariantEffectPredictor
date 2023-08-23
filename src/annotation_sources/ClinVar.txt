@@ -1,0 +1,14 @@
+# Chromosome   Position   Ref_Allele   Alt_Allele   Clinical_Significance
+chr1          1500       G            A            Pathogenic
+chr1          2500       C            T            Likely_Benign
+chr1          3500       A            G            Uncertain_Significance
+chr2          4500       T            C            Pathogenic
+chr2          5500       A            G            Benign
+chr3          6500       G            T            Pathogenic
+chr3          7500       A            C            Benign
+# ... (repeat with more entries)
+chr22         30000000   T            A            Pathogenic
+chrX          70000000   C            G            Benign
+chrX          80000000   A            T            Uncertain_Significance
+chrY          15000000   G            C            Pathogenic
+chrY          25000000   C            G            Likely_Benign
