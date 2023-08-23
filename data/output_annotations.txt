@@ -1,0 +1,14 @@
+Annotated info for variant: chr1    1000    A       T       AF=0.01;DP=20
+Annotation sources: dbSNP, ClinVar
+
+Annotated info for variant: chr2    2000    C       G       AF=0.005;DP=30
+Annotation sources: dbSNP, ClinVar
+
+Annotated info for variant: chr3    3000    T       A       AF=0.02;DP=25
+Annotation sources: dbSNP, ClinVar
+
+Annotated info for variant: chr4    4000    G       C       AF=0.03;DP=15
+Annotation sources: dbSNP, ClinVar
+
+Annotated info for variant: chr5    5000    A       T       AF=0.015;DP=18
+Annotation sources: dbSNP, ClinVar
