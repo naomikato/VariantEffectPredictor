@@ -42,7 +42,7 @@ Contributions to enhance the tool's functionality or add new annotation sources 
 
 ## Contact
 
-For questions or feedback related to the Variant Effect Predictor, you can contact Naomi Kato at [naomi.kato@example.com](mailto:naomikato@lcorpnow.com).
+For questions or feedback related to the Variant Effect Predictor, you can contact Naomi Kato at [naomikato@lcorpnow.com](mailto:naomikato@lcorpnow.com).
 
 Thank you for using the Variant Effect Predictor to decode the effects of genetic variants!
 
